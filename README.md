@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegosadock" alt="diegosadock" /></a> </p>
 
-- 🌱 Currently learning **Angular** for Front-End development
-- 💬 Ask me about **Java (Backend Development)**, **Spring Boot**, **Microservices**, **Angular**, and **Docker**
-- 🔭 I’m currently working on improving my **Full-Stack** development skills.
+- 🌱 Currently learning <strong>Angular</strong> for Front-End development
+- 💬 Ask me about <strong>Java (Backend Development)</strong>, <strong>Spring Boot</strong>, <strong>Microservices</strong>, <strong>Angular</strong>, and <strong>Docker</strong>
+- 🔭 I’m currently working on improving my <strong>Full-Stack</strong> development skills.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,16 +27,15 @@
 </p>
 
 <h3 align="left">My Projects:</h3>
-- **Clinica Fisioterapia**: A Spring Boot-based API for a physiotherapy clinic with functionalities to store patient records and manage appointments.
-- **E-commerce Backend**: Backend for an e-commerce system including payment integration and order management (using **Spring Boot** and **MySQL**).
+- <strong>Clinica Fisioterapia</strong>: A Spring Boot-based API for a physiotherapy clinic with functionalities to store patient records and manage appointments.
+- <strong>E-commerce Backend</strong>: Backend for an e-commerce system including payment integration and order management (using <strong>Spring Boot</strong> and <strong>MySQL</strong>).
 
 <h3 align="left">My Certifications:</h3>
-- **Java Fundamentals** (Rocketseat - March 2025)
-- **API Development with Spring Boot** (IsiFLIX - January 2025)
-- **Database Fundamentals** (IsiFLIX - November 2024)
-- **Frontend Development (Angular)** (IsiFLIX - January 2025)
-- **Introduction to Programming Algorithms** (IsiFLIX - October 2024)
+- <strong>Java Fundamentals</strong> (Rocketseat - March 2025)
+- <strong>API Development with Spring Boot</strong> (IsiFLIX - January 2025)
+- <strong>Database Fundamentals</strong> (IsiFLIX - November 2024)
+- <strong>Frontend Development (Angular)</strong> (IsiFLIX - January 2025)
+- <strong>Introduction to Programming Algorithms</strong> (IsiFLIX - October 2024)
 
 <h3 align="left">Personal Goals:</h3>
-- I am passionate about improving my skills in **Java backend development** and exploring modern frameworks like **Spring Boot** and **Angular**. I am actively looking for an internship to gain hands-on experience in **full-stack development** and contribute to impactful projects.
-
+- I am passionate about improving my skills in <strong>Java backend development</strong> and exploring modern frameworks like <strong>Spring Boot</strong> and <strong>Angular</strong>. I am actively looking for an internship to gain hands-on experience in <strong>full-stack development</strong> and contribute to impactful projects.
