@@ -1,41 +1,84 @@
 <h1 align="center">Hi 👋, nice to meet you, I'm Diego</h1>
 <h3 align="center">A Computer Science Student & Developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diegosadock&label=Profile%20views&color=0e75b6&style=flat" alt="sasadock" /> </p>
+[![Diego Sadock github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diegosadock&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&area_color=67cb57&hide_border=true)](https://github.com/diegosadock/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegosadock" alt="diegosadock" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegosadock" alt="diegosadock" /></a> </p>
 
-- 🌱 Currently learning <strong>Angular</strong> for Front-End development
-- 💬 Ask me about <strong>Java (Backend Development)</strong>, <strong>Spring Boot</strong>, <strong>Microservices</strong>, <strong>Angular</strong>, and <strong>Docker</strong>
-- 🔭 I’m currently working on improving my <strong>Full-Stack</strong> development skills.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegosadock/diegosadock/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegosadock/diegosadock/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diegosadock/diegosadock/output/pacman-contribution-graph.svg">
+</picture>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🚀 About me
+
+- 🎓 Computer Science Student with a technical background in Systems Development  
+- 💻 Java Backend Developer building scalable RESTful APIs with Spring Boot  
+- 🔐 Experienced with JWT authentication, modular architecture, Docker deployments and code optimization  
+- 💡 Currently expanding into full-stack development with Angular  
+
+---
+
+## 🧰 Languages & Tools
+
+**Backend**  
 <p align="left">
-  <a href="https://www.linkedin.com/in/diegosadock" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegosadock" height="30" width="40" /></a>
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+**Frontend**  
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.java.com/pt-BR" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" height="40" alt="Angular"/>
 </p>
 
-<h3 align="left">My Projects:</h3>
-- <strong>Clinica Fisioterapia</strong>: A Spring Boot-based API for a physiotherapy clinic with functionalities to store patient records and manage appointments.
-- <strong>E-commerce Backend</strong>: Backend for an e-commerce system including payment integration and order management (using <strong>Spring Boot</strong> and <strong>MySQL</strong>).
+**DevOps / Deployment**  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+</p>
 
-<h3 align="left">My Certifications:</h3>
-- <strong>Java Fundamentals</strong> (Rocketseat - March 2025)
-- <strong>API Development with Spring Boot</strong> (IsiFLIX - January 2025)
-- <strong>Database Fundamentals</strong> (IsiFLIX - November 2024)
-- <strong>Frontend Development (Angular)</strong> (IsiFLIX - January 2025)
-- <strong>Introduction to Programming Algorithms</strong> (IsiFLIX - October 2024)
+**Databases**  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+</p>
 
-<h3 align="left">Personal Goals:</h3>
-- I am passionate about improving my skills in <strong>Java backend development</strong> and exploring modern frameworks like <strong>Spring Boot</strong> and <strong>Angular</strong>. I am actively looking for an internship to gain hands-on experience in <strong>full-stack development</strong> and contribute to impactful projects.
+---
+
+## 🛠️ Projects
+
+- **Nexus Profissional** – Backend platform for onboarding and mentoring ~500 users+, featuring JWT authentication, job listings and mentoring modules.  
+- **Flowland MC** – Backend system for Minecraft servers, optimized for thousands of concurrent players via event-driven architecture.  
+- **Clinica Fisioterapia API** – Spring Boot REST API for managing patients and appointments.  
+- **E‌e‍commerce Backend** – Order and payment processing system built with Spring Boot and MySQL.
+
+---
+
+## 🏌 Certifications
+
+- API Development with Spring Boot – IsiFLIX  
+- Collections, Streams & Design Patterns in Java – IsiFLIX  
+- Hexagonal Architecture – IsiFLIX  
+- Git, Version Control & CI/CD – IsiFLIX  
+- Database Fundamentals – IsiFLIX  
+- CyberSecurity – Uniamérica  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegosadock&show_icons=true&theme=merko&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosadock&layout=compact&theme=merko"/>
+</p>
+
+---
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=diegosadock&label=Profile%20views&color=0e75b6&style=flat" alt="sasadock" /> </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=footer"/>
