@@ -24,6 +24,22 @@
 
 ---
 
+## 📫 Connect with me
+
+<p align="left">
+  <a href="mailto:diegosadock1234@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/diegosadock/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/diegosadock/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
 ## 🧰 Languages & Tools
 
 **Backend**  
@@ -71,6 +87,7 @@
 - CyberSecurity – Uniamérica  
 
 ---
+
 
 ## 📈 GitHub Stats
 
