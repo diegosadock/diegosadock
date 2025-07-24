@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, nice to meet you, I'm Diego</h1>
 <h3 align="center">A Computer Science Student & Developer from Brazil</h3>
 
-[![Diego Sadock github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diegosadock&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&area_color=67cb57&hide_border=true)](https://github.com/diegosadock/)
+[![Diego Sadock github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diegosadock&bg_color=0d1117&color=c9d1d9&line=67cb57&point=67cb57&area=true&area_color=2ea043&hide_border=true)](https://github.com/diegosadock/)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegosadock" alt="diegosadock" /></a> </p>
 
@@ -100,4 +100,5 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=diegosadock&label=Profile%20views&color=0e75b6&style=flat" alt="sasadock" /> </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=67cb57,2ea043&height=120&section=footer&backgroundColor=0d1117"/>
+
