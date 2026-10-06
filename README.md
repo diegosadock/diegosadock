@@ -1,104 +1,27 @@
-<h1 align="center">Hi 👋, nice to meet you, I'm Diego</h1>
-<h3 align="center">A Computer Science Student & Developer from Brazil</h3>
+# Diego Sadock
 
-[![Diego Sadock github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diegosadock&bg_color=0d1117&color=c9d1d9&line=67cb57&point=67cb57&area=true&area_color=2ea043&hide_border=true)](https://github.com/diegosadock/)
+### Software Engineer | Backend Engineering → AI/ML Engineering
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegosadock" alt="diegosadock" /></a> </p>
+I build backend software with Java and Spring Boot, with public work in REST APIs, authentication, domain modeling, persistence, database migrations, and tests.
 
----
+I’m expanding this foundation toward AI and Machine Learning Engineering, focusing on how data and models can become reliable features inside software products.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegosadock/diegosadock/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegosadock/diegosadock/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diegosadock/diegosadock/output/pacman-contribution-graph.svg">
-</picture>
+## Focus
 
----
+- **AI & Machine Learning — in progress:** Applied AI, machine learning, and Python for model-backed applications.
+- **Backend & Software Engineering:** Java, Spring Boot, Spring Security, REST APIs, JPA, JWT, Flyway, and TDD/JUnit.
+- **Data:** PostgreSQL and MySQL.
+- **Frontend (supporting):** TypeScript, React, and Angular.
 
-## 🚀 About me
+## Selected work
 
-- 🎓 Computer Science Student with a technical background in Systems Development  
-- 💻 Java Backend Developer building scalable RESTful APIs with Spring Boot  
-- 🔐 Experienced with JWT authentication, modular architecture, Docker deployments and code optimization  
-- 💡 Currently expanding into full-stack development with Angular  
+- [Pulse Bank](https://github.com/diegosadock/pulse-bank) — Experimental banking backend exploring domain modeling, transaction lifecycles, PostgreSQL, and Flyway.
+- [Lume](https://github.com/diegosadock/Lume) — Reading-habit application built with Spring Boot, JPA, and PostgreSQL using TDD.
+- [Flabijoux E-commerce API](https://github.com/diegosadock/truedev-ecommerce-flaviabijoux) — Java/Spring API for products, categories, customers, variants, and orders, with security and OpenAPI.
+- [IsiSpring](https://github.com/diegosadock/IsiSpring) — Educational Java web framework exploring HTTP routing, reflection, and dependency injection.
+- [ShareRoom](https://github.com/diegosadock/discord-v2) — Browser-based voice, video, and screen-sharing rooms using TypeScript, WebRTC, and PeerJS.
+- [Nossa Raiz](https://github.com/diegosadock/front-nossaraiz) — Angular SSR frontend for a community project with blog, forum, solidarity shop, and fundraising pages.
 
----
+## Contact
 
-## 📫 Connect with me
-
-<p align="left">
-  <a href="mailto:diegosadock1234@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.instagram.com/diegosadock/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/diegosadock/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
-## 🧰 Languages & Tools
-
-**Backend**  
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
-</p>
-
-**Frontend**  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" height="40" alt="Angular"/>
-</p>
-
-**DevOps / Deployment**  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-</p>
-
-**Databases**  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-</p>
-
----
-
-## 🛠️ Projects
-
-- **Nexus Profissional** – Backend platform for onboarding and mentoring ~500 users+, featuring JWT authentication, job listings and mentoring modules.  
-- **Flowland MC** – Backend system for Minecraft servers, optimized for thousands of concurrent players via event-driven architecture.  
-- **Clinica Fisioterapia API** – Spring Boot REST API for managing patients and appointments.  
-- **E‌e‍commerce Backend** – Order and payment processing system built with Spring Boot and MySQL.
-
----
-
-## 🏌 Certifications
-
-- API Development with Spring Boot – IsiFLIX  
-- Collections, Streams & Design Patterns in Java – IsiFLIX  
-- Hexagonal Architecture – IsiFLIX  
-- Git, Version Control & CI/CD – IsiFLIX  
-- Database Fundamentals – IsiFLIX  
-- CyberSecurity – Uniamérica  
-
----
-
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegosadock&show_icons=true&theme=merko&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosadock&layout=compact&theme=merko"/>
-</p>
-
----
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=diegosadock&label=Profile%20views&color=0e75b6&style=flat" alt="sasadock" /> </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=67cb57,2ea043&height=120&section=footer&backgroundColor=0d1117"/>
-
+[LinkedIn](https://www.linkedin.com/in/diegosadock/) · [Portfolio](https://sadock-portfolio.vercel.app/)
